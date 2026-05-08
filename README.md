@@ -17,4 +17,4 @@ A creative animation inspired by the Powerpuff Girls, built using the Processing
 3. Click the ▶ Run button
 
 ## Live Preview
-https://github.com/belhaj2004/Powerpuff-Girls-Animation/blob/main/Demo%20powerpuff.mp4
+https://youtube.com/shorts/OWv0O5dcPS0?feature=share
