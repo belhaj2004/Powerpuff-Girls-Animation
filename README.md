@@ -15,3 +15,6 @@ A creative animation inspired by the Powerpuff Girls, built using the Processing
 1. Download [Processing IDE](https://processing.org/download)
 2. Open `p2b_modeling.pde`
 3. Click the ▶ Run button
+
+## Live Preview
+https://github.com/belhaj2004/Powerpuff-Girls-Animation/blob/main/Demo%20powerpuff.mp4
